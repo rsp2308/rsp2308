@@ -31,7 +31,11 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+![rsp2308's Stats](https://github-readme-stats.vercel.app/api?username=rsp2308&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![rsp2308's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsp2308&theme=vue-dark&hide_border=true)
+
+![rsp2308's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsp2308&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
