@@ -1,7 +1,10 @@
+ 
+
+![Header](https://media.discordapp.net/attachments/1161768520334454876/1274730706102386708/github-header-image.png?ex=66c350fb&is=66c1ff7b&hm=3b43e3966ec5b0aa080b407aed9df28dca65f22db5b2a3bdb1a527e51f3c3a51&=&format=webp&quality=lossless&width=1280&height=640)
 <html>
 
  <body bgcolor="beige">
-<h2> Hey there! I'm Roshan(odoyle). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> 👋Hey there! I'm Roshan(odoyle). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
