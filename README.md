@@ -45,6 +45,6 @@
 &nbsp; <a href="https://twitter.com/roshanized" target="_blank" rel="noopener noreferrer"><img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg" width="50" /></a>  
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/roshan-parmar-609aba237/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="rsp2308a@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:rsp2308a@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 </html>
