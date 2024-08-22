@@ -17,7 +17,7 @@
 - 🏎️ &nbsp; Watching F1 and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3> (learn-list)
 
 - 💻 &nbsp; Python | Dart | Java | C++  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
