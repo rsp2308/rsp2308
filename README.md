@@ -1,21 +1,45 @@
  
 
-![Header](https://media.discordapp.net/attachments/1161768520334454876/1274730706102386708/github-header-image.png?ex=66c350fb&is=66c1ff7b&hm=3b43e3966ec5b0aa080b407aed9df28dca65f22db5b2a3bdb1a527e51f3c3a51&=&format=webp&quality=lossless&width=1280&height=640)
-<html>
+<div style="display: flex; justify-content: center; ">
+    <img src="" height="auto" width="auto" />
+</div>
+<br>
 
- <body bgcolor="beige">
-<h2> 👋Hey there! I'm Roshan(odoyle). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" width="500"/>
+ <body>
+<h2> 👋Hey there! I'm Roshan(odoyle). <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning python & JS.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Robotics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
-- 🏎️ &nbsp; Watching F1 and waiting for 2025.
-- ☕ &nbsp; I don't believe, a perfect cup of coffee can be the ultimate solution for stress. 
+
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" height="316" width="450">
+    </div>
+ 
+```
+rsp2308@github
+```
+
+```markdown
+➕ import antiGravity
+🧑‍💻 I’m currently learning Python & JS.
+🤔 Exploring new technologies and developing software solutions and quick hacks.
+🎓 Studying Computer Science and Robotics.
+🌱 Interested in Cyber Security and Artificial Intelligence.
+💼 Open to learn and work on Web-dev projects!
+🚩 Keep coding, keep innovating! Let's build the future together!
+♟️ Prolly i'll be in a chess match rn!
+🏎️ Watching F1 and waiting for 2025.
+☕ I don't believe, a perfect cup of coffee can be the ultimate solution for stress. 
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+```
+
+  </div>
+</div>
+
+<br>
+
 
 <h3>🛠 Tech Stack</h3> (learn-list)
 
