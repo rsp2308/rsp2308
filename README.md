@@ -9,13 +9,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning python 
+- 🔭 &nbsp; I’m currently learning python & JS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Computer Programming, and Mathematics.
+- 🎓 &nbsp; Studying Computer Science and Robotics.
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
-- 🏎️ &nbsp; Watching F1 and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
+- 🏎️ &nbsp; Watching F1 and waiting for 2025.
+- ☕ &nbsp; I don't believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
 <h3>🛠 Tech Stack</h3> (learn-list)
 
