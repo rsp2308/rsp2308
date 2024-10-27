@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" height="275" width="450">
+        <img align="left" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" height="280" width="430">
     </div>
  
 ```
