@@ -4,9 +4,11 @@
     <img src="" height="auto" width="auto" />
 </div>
 <br>
-
- <body>
-<h2> 👋Hey there! I'm Roshan(odoyle). <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></h2>
+<body>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=red&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Roshan+Parmar!;+aka+Odoyle!+🥸" alt="HELLO SECTION">
+</p>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 
@@ -24,7 +26,7 @@ rsp2308@github
 ```markdown
 ➕ import antiGravity
 🧑‍💻 I’m currently learning Python & JS.
-🤔 Exploring new technologies and developing software solutions and quick hacks.
+🤔 Still fuguring out how to center a div.
 🎓 Studying Computer Science and Robotics.
 🌱 Interested in Cyber Security and Artificial Intelligence.
 💼 Open to learn and work on Web-dev projects!
@@ -52,7 +54,7 @@ rsp2308@github
 <br>
 
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rsp2308&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -67,7 +69,7 @@ rsp2308@github
 
 ![rsp2308's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsp2308&theme=vue-dark&hide_border=true)
 
-    ![rsp2308's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsp2308&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
+![rsp2308's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsp2308&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
 
 
 
