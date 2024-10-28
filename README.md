@@ -11,37 +11,29 @@
 </p>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- ➕ &nbsp; import antiGravity
+- 🧑‍💻 &nbsp; I’m currently learning Python & JS. 
+- 🤔 &nbsp; Still fuguring out how to center a div.
+- 🎓 &nbsp; Studying Computer Science and Robotics.
+- ♟️ &nbsp; Prolly i'll be in a chess match rn!
+- 🌱 &nbsp; Interested in Cyber Security and Artificial Intelligence.
+- 🏎️ &nbsp; Watching F1 and waiting for 2025.
+- ☕ &nbsp; I don't believe, a perfect cup of coffee can be the ultimate solution for stress.
 
 
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<div class="about-main" style="display: flex;">
-    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" height="280" width="430">
-    </div>
+
+    
  
-```
-rsp2308@github
-```
 
-```markdown
-➕ import antiGravity
-🧑‍💻 I’m currently learning Python & JS.
-🤔 Still fuguring out how to center a div.
-🎓 Studying Computer Science and Robotics.
-🌱 Interested in Cyber Security and Artificial Intelligence.
-💼 Open to learn and work on Web-dev projects!
-🚩 Keep coding, keep innovating! Let's build the future together!
-♟️ Prolly i'll be in a chess match rn!
-🏎️ Watching F1 and waiting for 2025.
-☕ I don't believe, a perfect cup of coffee can be the ultimate solution for stress. 
-​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-```
-
-  </div>
-</div>
 
 <br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rsp2308&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 💻 Tech Stack:
