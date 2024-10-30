@@ -11,7 +11,7 @@
 </p>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" width="500"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" width="500" height="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
