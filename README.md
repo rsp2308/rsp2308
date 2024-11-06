@@ -1,4 +1,6 @@
- 
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br /> 
 
 <div style="display: flex; justify-content: center; ">
     <img src="![0_0](https://github.com/user-attachments/assets/4b34fdf2-358f-46fb-849b-00d068ac15cc)
@@ -10,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=red&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Roshan+Parmar!;+aka+Odoyle!+🥸" alt="HELLO SECTION">
 </p>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+ 
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif" width="500" height="300"/>
 
@@ -66,4 +69,11 @@
 &nbsp; <a href="https://www.linkedin.com/in/roshan-parmar-609aba237/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:rsp2308a@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
 </html>
