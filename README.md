@@ -44,14 +44,22 @@
 # 📊 GitHub Stats:
 
  <!-- <a href="https://stats.hyo.dev"><img src="https://stats.hyo. dev/api/github-stats-advanced?login=rsp2308"  width="600"/></a> -->
-  ![](https://github-readme-stats.vercel.app/api?username=rsp2308&theme=dark&hide_border=false)<br/>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsp2308&show_icons=true&theme=radical" alt="Stats" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsp2308&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+
  <!-- ![Roshan's WakaTime stats](https://wakatime.com/share/@rsp2308/882541c0-13fc-4256-9d94-f85fa4a21966.svg)<br/>
    ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rsp2308&theme=dark)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=rsp2308&theme=dark&hide_border=false)<br/>
  -->
  
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsp2308&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsp2308&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--###  🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rsp2308&limit=5&theme=dark&combine_all_yearly_contributions=true) 
