@@ -68,8 +68,8 @@
 
 ---
 [![wakatime](https://wakatime.com/badge/user/02259d16-b50a-4178-ab5c-5ec81e34c78c.svg)](https://wakatime.com/@02259d16-b50a-4178-ab5c-5ec81e34c78c)
-[![](https://visitcount.itsvg.in/api?id=rsp2308&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 <!--  ## 💰 You can help me by Donating
   [![PayPal](#)  -->
 
