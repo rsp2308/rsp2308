@@ -68,10 +68,10 @@
 -->
 
 ---
-[![wakatime](https://wakatime.com/badge/user/02259d16-b50a-4178-ab5c-5ec81e34c78c.svg)](https://wakatime.com/@02259d16-b50a-4178-ab5c-5ec81e34c78c)
+<!-- [![wakatime](https://wakatime.com/badge/user/02259d16-b50a-4178-ab5c-5ec81e34c78c.svg)](https://wakatime.com/@02259d16-b50a-4178-ab5c-5ec81e34c78c)
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-<!--  ## 💰 You can help me by Donating
+ ## 💰 You can help me by Donating
   [![PayPal](#)  -->
 
   
